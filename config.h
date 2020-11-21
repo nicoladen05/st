@@ -7,7 +7,7 @@
  */
 /* static char *font = "mono:pixelsize=14:antialias=true:autohint=true"; */
 static char *font = "Fira Code Nerd Font Mono:pixelsize=15:antialias=true:autohint=true";
-static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
+static char *font2[] = { "Material Design Icons:pixelsize=10:antialias=true:autohint=true", "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
